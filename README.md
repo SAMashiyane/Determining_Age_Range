@@ -18,5 +18,37 @@
 
 <img src="https://github.com/SAMashiyane/Determining_Age_Range/blob/main/images/fig1.png"  width="600" height="300">
 
+----------------------------------------------------------------------------------------
+
+<img src="https://github.com/SAMashiyane/Determining_Age_Range/blob/main/images/fig2.png"  width="600" height="300">
+
+----------------------------------------------------------------------------------------
+
+<img src="https://github.com/SAMashiyane/Determining_Age_Range/blob/main/images/fig3.png"  width="600" height="300">
+
+----------------------------------------------------------------------------------------
+
+<img src="https://github.com/SAMashiyane/Determining_Age_Range/blob/main/images/fig4.png"  width="600" height="300">
+
+----------------------------------------------------------------------------------------
+
+<img src="https://github.com/SAMashiyane/Determining_Age_Range/blob/main/images/fig5.png"  width="600" height="300">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
