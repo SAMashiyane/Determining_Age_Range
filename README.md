@@ -12,4 +12,5 @@
 
 **Keywords**: Identification Age estimation Glabella angle Maxillary angle Piriformis length Piriformis width Machine learning Artificial intelligence.
 
-Read this article:[ex]: https://journals.sbmu.ac.ir/ijmtfm/article/view/38605/29835
+[Read this article:]: https://journals.sbmu.ac.ir/ijmtfm/article/view/38605/29835
+
