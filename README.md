@@ -34,6 +34,9 @@
 
 <img src="https://github.com/SAMashiyane/Determining_Age_Range/blob/main/images/fig5.png"  width="600" height="300">
 
+## How to Cite
+`Mohtarami, S. A., Hedjazi, A., & Haj Manouchehri, R. (2022). Determining the Age Range Based on Machine-Learning Methods From Facial Skeletal Angles (Glabella and Maxilla Angle and Length and Width of Piriformis) in CT Scan . International Journal of Medical Toxicology and Forensic Medicine, 12(4), 38605. https://doi.org/10.32598/ijmtfm.v12i4.38605`
+
 
 
 
